@@ -1,3 +1,3 @@
 # LFS Demo
 
-![./aim.png]
+![Render LFS Image](./aim.png)
